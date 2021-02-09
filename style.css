@@ -1,0 +1,99 @@
+.logo-nav {
+    width: 180px;
+}
+
+.texto-nav {
+    font-family: 'Monda', sans-serif;
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.bg-button {
+    background-color: #3c0080;
+}
+
+.contenedor-inicio {
+    margin-top: 4rem;
+    /* height: 600px; */
+    background-image: url(./img/fondo-inicio.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.texto-titulo-inicio {
+    font-family: 'Monda', sans-serif;
+    font-size: 4rem;
+    font-weight: 700;
+    line-height: 65px;
+    color: #72ea24;
+    text-align: left;
+    padding-top: 4rem;
+}
+
+.texto-bajada-inicio {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: 300;
+    color: white;
+    padding-bottom: 5rem;
+}
+
+.contenedor-articulos {
+    background-color: rgb(26, 18, 29);
+    padding-bottom: 3rem;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: 600;
+    text-align: left;
+    color: rgb(221, 221, 221);
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+}
+
+.titulo-articulo-inicio {
+    color: #8f75ff;
+    font-family: 'Monda', sans-serif;
+    font-size: 1.9rem;
+    font-weight: 600;
+}
+
+.texto-articulo-inicio {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    color: white;
+}
+
+.enlace-articulo {
+    color: #72ea24;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.estilo-comparti {
+    color: #72ea24;
+
+}
+
+hr.hr-articulos {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    border: 1px solid #72ea24;
+}
+
+.contenedor-footer {
+    background-color: black;
+    height: 100px;
+}
+
+.redes-footer {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    color: white;
+}
