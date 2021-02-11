@@ -1,15 +1,20 @@
 .logo-nav {
     width: 180px;
+    margin-left: 2rem;
 }
 
 .texto-nav {
     font-family: 'Monda', sans-serif;
     font-size: 1rem;
     font-weight: 700;
+    margin-right: 1.3rem;
 }
 
 .bg-button {
     background-color: #3c0080;
+    width: 77px;
+    height: 25px;
+    padding-bottom: 28px;
 }
 
 .contenedor-inicio {
@@ -62,12 +67,23 @@ h2 {
     font-weight: 600;
 }
 
+.titulo-articulo-inicio:hover {
+    text-decoration: none;
+    color: #d2c8ff;
+}
+
 .texto-articulo-inicio {
     font-family: 'Montserrat', sans-serif;
     font-size: 1rem;
     font-weight: 400;
     color: white;
 }
+
+.enlace-nota-articulo {
+    text-decoration: none;
+}
+
+
 
 .enlace-articulo {
     color: #72ea24;
