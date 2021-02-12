@@ -8,3 +8,54 @@
     background-position: left;
     position: relative;
 }
+
+.texto-estructura {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 400;
+    color: white;
+}
+
+.span-bajada {
+    width: 35%;
+    height: 3px;
+    background-color: #72ea24;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.span-bajada-2 {
+    width: 35%;
+    height: 3px;
+    background-color: #72ea24;
+    margin-bottom: 1rem;
+}
+
+.titulo-bajada-nosotros {
+    font-family: 'Monda', sans-serif;
+    font-size: 1rem;
+    font-weight: 700;
+    color: #d2c8ff;;
+}
+
+.bajada-foto-nosotros {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.7rem;
+    font-weight: 400;
+    color: white;
+
+}
+
+.cien {
+    height: 400px;
+    width: 100%;
+    object-fit: none;
+
+}
+
+.imagen-chica-sala {
+    height: 250px;
+    width: 100%;
+    object-fit: cover;
+    padding-bottom: 1rem;
+}
