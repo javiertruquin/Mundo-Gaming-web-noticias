@@ -1,0 +1,10 @@
+.contenedor-nosotros {
+    margin-top: 4rem;
+
+    /* height: 600px; */
+    background-image: url(./img/nosotros/nosotros.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    position: relative;
+}
