@@ -35,7 +35,7 @@
     font-family: 'Monda', sans-serif;
     font-size: 1rem;
     font-weight: 700;
-    color: #d2c8ff;;
+    color: #d2c8ff;
 }
 
 .bajada-foto-nosotros {
@@ -58,4 +58,31 @@
     width: 100%;
     object-fit: cover;
     padding-bottom: 1rem;
+}
+
+.contenedor-quienes {
+    background-color: rgb(206, 193, 214);
+}
+
+.titulo-quienes {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 45px;
+    color: #3c0080;
+    text-align: left;
+    padding-top: 1.5rem;
+}
+
+.subtitulo-quienes {
+    font-family: 'Monda', sans-serif;
+    font-size: 1rem;
+    font-weight: 700;
+    color: #707070;
+}
+
+.texto-quienes {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
 }
