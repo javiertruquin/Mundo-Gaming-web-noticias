@@ -86,3 +86,33 @@
     font-size: 1rem;
     font-weight: 400;
 }
+
+.img-cirular {
+    width: 150px;
+    height: 150px;
+    background-color: #707070;
+    filter: grayscale(100%);
+    object-position: center;
+}
+
+.img-cirular:hover {
+    width: 200px;
+    height: 200px;
+    background-color: #707070;
+    filter: none;
+    transition: ease-out .2s;
+}
+
+.nombre-perfil {
+    font-family: 'Monda', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #3c0080;
+    margin-top: 1.5rem;
+}
+
+.descipcion-perfil {
+    font-family: 'Montserrat', sans-serif;
+    font-size: .81rem;
+    font-weight: 400;
+}
