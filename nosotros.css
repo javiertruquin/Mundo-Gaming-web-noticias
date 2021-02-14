@@ -64,6 +64,11 @@
     background-color: rgb(206, 193, 214);
 }
 
+.bg-gris-oscuro {
+    background-color: rgb(198, 186, 206);
+
+}
+
 .titulo-quienes {
     font-family: 'Montserrat', sans-serif;
     font-size: 2rem;
@@ -111,8 +116,30 @@
     margin-top: 1.5rem;
 }
 
+.cargo-perfil {
+    font-family: 'Montserrat', sans-serif;
+    font-size: .85rem;
+    font-weight: 700;
+    color: #5e5e5e;
+}
+
 .descipcion-perfil {
     font-family: 'Montserrat', sans-serif;
     font-size: .81rem;
     font-weight: 400;
+}
+
+.redes-perfil {
+    font-size: 1.5rem;
+    color: #707070;
+}
+
+.redes-perfil:hover {
+    font-size: 1.5rem;
+    color: #3c0080;
+}
+
+.fajita {
+    height: 27px;
+    object-fit: cover;
 }

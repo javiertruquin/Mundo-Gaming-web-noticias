@@ -1,6 +1,5 @@
 .logo-nav {
     width: 180px;
-    margin-left: 2rem;
 }
 
 .texto-nav {
@@ -83,10 +82,14 @@ h2 {
     text-decoration: none;
 }
 
-
-
 .enlace-articulo {
     color: #72ea24;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.enlace-articulo:hover {
+    color: #d2c8ff;
     text-decoration: none;
     cursor: pointer;
 }
@@ -94,6 +97,34 @@ h2 {
 .estilo-comparti {
     color: #72ea24;
 
+}
+
+.boton-todos-articulos {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: white;
+    background-color: #3c0080;
+    width: 200px;
+    height: 25px;
+    padding-bottom: 25px;
+    position: absolute;
+    top: 19%;
+    left: 42%;
+}
+
+.boton-todos-articulos:hover {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: #ffffff;
+    background-color: #777777;
+    width: 200px;
+    height: 25px;
+    padding-bottom: 25px;
+    position: absolute;
+    top: 19%;
+    left: 42%;
 }
 
 hr.hr-articulos {
