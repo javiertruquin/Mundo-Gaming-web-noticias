@@ -78,6 +78,12 @@ h2 {
     color: white;
 }
 
+.img-overlay:hover {
+    background-color: rgba(255, 255, 255, 0.877);
+    opacity: 0.41;
+    transition: ease-in 0.16s;
+}
+
 .enlace-nota-articulo {
     text-decoration: none;
 }
@@ -134,7 +140,8 @@ hr.hr-articulos {
 }
 
 .contenedor-subscribite {
-    background-color: #6a5e74;
+    background-color: #433b49;
+    padding-bottom: 1.5rem;
 }
 
 .titulo-mailing {
@@ -153,6 +160,37 @@ hr.hr-articulos {
     color: white;
     margin-bottom: 2rem;
 }
+
+.label-formulario {
+    font-family: 'Monda', sans-serif;
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: rgb(221, 221, 221);
+}
+
+.input-formulario {
+    background-color: #716779;
+    border: 0;
+    width: 85%;
+}
+
+.boton-formulario {
+    font-family: 'Monda', sans-serif;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: white;
+    background-color: #3c0080;
+}
+
+.boton-formulario:hover {
+    font-family: 'Monda', sans-serif;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: white;
+    background-color: #777777;
+}
+
+
 
 .contenedor-footer {
     background-color: black;
@@ -175,6 +213,11 @@ hr.hr-articulos {
 
 .icono-redes-footer {
     font-size: 1.8rem;
+    color: rgb(221, 221, 221);
+}
+
+.icono-redes-footer:hover {
+    color: #777777;
 }
 
 .borde-botton-verde {
