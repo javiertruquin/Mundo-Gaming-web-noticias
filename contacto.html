@@ -16,6 +16,7 @@
         integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
 
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./contacto.css">
     <title>Mundo Gaming 2021</title>
 </head>
 
@@ -40,9 +41,58 @@
         </div>
     </nav>
 
+    <!-- Imagen principal -->
+    <div class="containter-fluid contenedor-inicio">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8 col-md-8 col-lg-6 pt-5">
+                    <p class="texto-titulo-inicio">Contacto</p>
+                    <p class="texto-bajada-inicio">Comunicate con nosotros para conocer mas sobre Mundo Gaming</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- contenido contacto -->
-
-
+    <section class="contenedor-articulos py-5" id="contacto">
+        <div class="container">
+            <div class="col-6 m-auto">
+                <div class="well well-sm text-center">
+                    <form class="form-horizontal" method="post">
+                        <fieldset>
+                            <legend class="text-start titulo-contacto header">¿En que podemos ayudarte?</legend>
+                            <br>
+                            <div class="form-group pb-4">
+                                <div class="col-md-10">
+                                    <input id="fname" name="name" type="text" placeholder="Nombre" class="form-control required">
+                                </div>
+                            </div>
+                            <div class="form-group pb-4">
+                                <div class="col-md-10">
+                                    <input id="lname" name="name" type="text" placeholder="Apellido" class="form-control required">
+                                </div>
+                            </div>
+                            <div class="form-group pb-4">
+                                <div class="col-md-10">
+                                    <input id="email" name="email" type="email" placeholder="Correo electronico" class="form-control required">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="col-md-10">
+                                    <textarea class="form-control" id="message" name="message" placeholder="Deja tu mensaje" rows="7"></textarea>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="py-3 col-md-10 text-start">
+                                    <button type="submit" class="btn boton-contacto btn-lg">ENVIAR</button>
+                                </div>
+                            </div>
+                        </fieldset>
+                    </form>
+                </div>
+            </div>
+        </div>
+      </section>
     <!-- footer -->
 
     <div class="container-fluid contenedor-footer">
