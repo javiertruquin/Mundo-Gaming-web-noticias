@@ -49,6 +49,22 @@
     padding-bottom: 3rem;
 }
 
+.etiqueta-nota {
+    font-family: 'Monda', sans-serif;
+    font-size: 0.6rem;
+    font-weight: 700;
+    color: #f8f9fa;
+    background-color: #3c0080;
+}
+
+.etiqueta-nota:hover {
+    font-family: 'Monda', sans-serif;
+    font-size: 0.6rem;
+    font-weight: 700;
+    color: #3c0080;
+    background-color: #f8f9fa;
+}
+
 h2 {
     font-family: 'Montserrat', sans-serif;
     font-size: 2rem;

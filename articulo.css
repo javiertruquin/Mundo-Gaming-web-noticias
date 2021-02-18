@@ -1,0 +1,41 @@
+.contenedor-img-articulo {
+    margin-top: 4rem;
+    height: 450px;
+    background-image: url(./img/articulo/img-articulo1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.titulo-articulo {
+    font-family: 'Monda', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 700;
+    line-height: 50px;
+    color: #282230;
+    text-align: left;
+    padding-top: 0.5rem;
+    
+}
+
+.texto-autor-articulo {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: rgb(111, 107, 119);
+}
+
+.cuerpo-texto-articulo {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    color: rgb(97, 97, 97);
+}
+
+.texto-lateral-articulo {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.6rem;
+    font-weight: 400;
+    color: rgb(56, 56, 56);
+}
