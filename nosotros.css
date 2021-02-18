@@ -100,8 +100,7 @@
 }
 
 .img-cirular:hover {
-    width: 200px;
-    height: 200px;
+    transform: scale(1.2);
     background-color: #707070;
     filter: none;
     transition: ease-out .2s;
