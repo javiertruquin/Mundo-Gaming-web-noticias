@@ -1,7 +1,6 @@
 .contenedor-img-articulo {
     margin-top: 4rem;
-    height: 450px;
-    background-image: url(./img/articulo/img-articulo1.jpg);
+    height: 500px;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -39,3 +38,34 @@
     font-weight: 400;
     color: rgb(56, 56, 56);
 }
+
+/* IMAGENES PRINCIPAL EN CADA ARTICULO */
+
+.articulo-nintendo{
+    background-image: url(./img/articulo/img-articulo1.jpg);
+}
+
+.articulo-zelda{
+    background-image: url(./img/articulo/the_legend_of_zelda_breath_of_the_wild_2.jpg);
+}
+
+.articulo-motogp{
+    background-image: url(./img/articulo/MotoGP.jpg);
+}
+
+.articulo-rustler{
+    background-image: url(./img/articulo/Rustler.png);
+}
+
+.articulo-stubbs{
+    background-image: url(./img/articulo/Stubbs.jpg);
+}
+
+.articulo-supermario{
+    background-image: url(./img/articulo/Supermario.png);
+}
+
+
+
+
+
