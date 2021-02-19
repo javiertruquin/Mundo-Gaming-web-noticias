@@ -64,6 +64,28 @@
     background-color: rgb(26, 18, 29);
 }
 
+.contenedor-iframe {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 56.25%;
+}
+
+.responsive-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.icono-comparti {
+    font-size: 1.2rem;
+    color: rgb(97, 97, 97);
+}
+
 /* IMAGENES PRINCIPAL EN CADA ARTICULO */
 
 .articulo-nintendo{
