@@ -32,11 +32,36 @@
     color: rgb(97, 97, 97);
 }
 
+.destacado-articulo {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.7rem;
+    font-weight: 600;
+    color: rgb(88, 28, 128);
+    font-style: italic;
+}
+
+.contenedor-destacado {
+    width: 75%;
+    border-top: 4px solid #c7c7c7;
+    border-bottom: 2px solid  #c7c7c7;
+}
+
 .texto-lateral-articulo {
     font-family: 'Montserrat', sans-serif;
-    font-size: 0.6rem;
+    font-size: 0.65rem;
     font-weight: 400;
     color: rgb(56, 56, 56);
+}
+
+.titulo-lateral-artitulo {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.7rem;
+    font-weight: 700;
+    color: rgb(97, 97, 97);
+}
+
+.contenedor-video {
+    background-color: rgb(26, 18, 29);
 }
 
 /* IMAGENES PRINCIPAL EN CADA ARTICULO */
