@@ -187,6 +187,16 @@ hr.hr-articulos {
     width: 85%;
 }
 
+.input-formulario::placeholder {
+    color: #f8f9fa;
+    font-style: italic;
+}
+
+.input-formulario:focus::placeholder {
+    color: #716779;
+    font-style: italic;
+}
+
 .boton-formulario {
     font-family: 'Monda', sans-serif;
     font-size: 0.8rem;
