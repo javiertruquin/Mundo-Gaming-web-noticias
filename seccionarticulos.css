@@ -1,0 +1,55 @@
+.contenedor-img-articulo {
+    margin-top: 4rem;
+    height: 150px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.imagen-publicidad{
+    background-image: url(./img/articulo/publicidad\ ejemplo.png);
+}
+
+.bg-seccion{
+    background: rgb(26, 18, 29);;
+}
+
+.hr-vertical{
+    margin: 0.5rem;
+    
+    border-left: 1px solid #72ea24;
+}
+
+.bg-tabla{
+    background: white;
+}
+
+.tabla-texto-titulo {
+    font-family: 'Monda', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 500;
+    line-height: 65px;
+    color: #72ea24;
+    text-align: left;
+    
+}
+
+.tabla-titulo {
+    color: #8f75ff;
+    font-family: 'Monda', sans-serif;
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+.tabla-titulo:hover {
+    text-decoration: none;
+    color: #d2c8ff;
+}
+
+.texto-articulo-tabla {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+}
