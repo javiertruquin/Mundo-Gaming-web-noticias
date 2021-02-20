@@ -112,6 +112,15 @@
     background-image: url(./img/articulo/Supermario.png);
 }
 
+/* BG PARA LOS ARTICULOS */
+
+.bg-oscuro{
+    background: rgb(26, 18, 29);
+}
+
+.bg-blanco{
+    background: white;
+}
 
 
 
