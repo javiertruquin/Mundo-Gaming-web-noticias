@@ -315,3 +315,36 @@ background: linear-gradient(180deg, rgba(60,0,128,1) 0%, rgba(0,0,0,1) 100%);
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
 }
+
+.contenedor-reg {
+    margin-top: 4rem;
+    /* height: 600px; */
+    background-image: url(./img/bg-login.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.titulo-reg{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: 600;
+    color: rgb(221, 221, 221);
+}
+.subtitulo-reg{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: rgb(221, 221, 221);
+    margin-right: 5px;
+}
+
+
+.texto-reg{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: rgb(221, 221, 221);
+}
+
