@@ -13,9 +13,6 @@
     padding-bottom: 3rem;
 }
 
-input:invalid {
-    border: solid 1.5px red;
-}
 
 .titulo-contacto {
     font-family: 'Montserrat', sans-serif;

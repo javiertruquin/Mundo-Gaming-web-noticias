@@ -307,7 +307,7 @@ form .copy-footer{
 }
 
 .contenedor-modal{
-background: linear-gradient(180deg, rgba(60,0,128,1) 0%, rgba(0,0,0,1) 100%);
+background: linear-gradient(180deg, #3c0080 0%, rgb(26 18 29) 100%);
 }
 
 .login{
